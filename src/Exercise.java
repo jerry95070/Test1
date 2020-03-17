@@ -1,7 +1,6 @@
 
 public class Exercise {
-
 	public static void main() {
-		System.out.println("aa");
+		System.out.println("aaaaa");
 	}
 }
